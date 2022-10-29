@@ -1,0 +1,77 @@
+{
+  "EventsPositive": [
+    {
+      "Title": "Your ARMY has accidentely bested a CLOUD CORRUPTOR! Winds of woods are HAPPY! (+3 CLOUDWOOD)",
+      "cloudwood": "3",
+      "fogstone": "0",
+      "pops": "0",
+      "army": "0"
+      
+    },
+    {
+      "Title": "Your ARMY have bested a GORECRAWLER! People of your DREAMTOWN are HAPPY( +3 POPS, -1 ARMY)",
+      "cloudwood": "0",
+      "fogstone": "0",
+      "pops": "3",
+      "army": "-1"
+    },
+    {
+      "Title": "Your ARMY have bested a FOGGED WORM! The monster from THE FOG is PLEASED... for now! (3 FOGSTONE)",
+      "cloudwood": "0",
+      "fogstone": "3",
+      "pops": "0",
+      "army": "0"
+    },
+    {
+      "Title": "Some of your people are HAPPY! They invite more of their relatives to your DREAMTOWN! (+2 POPS)",
+      "cloudwood": "0",
+      "fogstone": "0",
+      "pops": "2",
+      "army": "0"
+    },
+    {
+      "Title": "Your counsler spent some of your CLOUDWOOD and FOGSTONE to make more people join your DREAMTOWN! (-1 CLOUDWOOD, - 1 FOGSTONE, +5 POPS)",
+      "cloudwood": "-1",
+      "fogstone": "-1",
+      "pops": "5",
+      "army": "0"
+    }
+  ],
+  "EventsNegative": [
+    {
+      "Title": "Your ARMY has accidentely bested a LEAFDEER! Winds of woods are NOT HAPPY! (-3 CLOUDWOOD)",
+      "cloudwood": "-3",
+      "fogstone": "0",
+      "pops": "0",
+      "army": "0"
+    },
+    {
+      "Title": "Your ARMY has accidentely bested a FAIRYFOX! People of your DREAMTOWN are FURIOUS(-3 POPS, -2 ARMY)",
+      "cloudwood": "0",
+      "fogstone": "0",
+      "pops": "-3",
+      "army": "-2"
+    },
+    {
+      "Title": "Your ARMY has accidentely bested a FOGGED BUDGIE! The monster from THE FOG is NOT HAPPY! (-3 FOGSTONE)",
+      "cloudwood": "0",
+      "fogstone": "-3",
+      "pops": "0",
+      "army": "0"
+    },
+    {
+      "Title": "Some of your people are NOT HAPPY! They leave the town for their own reasons (-2 POPS)",
+      "cloudwood": "0",
+      "fogstone": "0",
+      "pops": "-2",
+      "army": "0"
+    },
+    {
+      "Title": "Somebody STOLE some of your CLOUDWOOD and FOGSTONE! (-1 CLOUDWOOD, - 1 FOGSTONE)",
+      "cloudwood": "-1",
+      "fogstone": "-1",
+      "pops": "0",
+      "army": "0"
+    }
+  ]
+}
