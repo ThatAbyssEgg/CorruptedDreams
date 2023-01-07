@@ -19,3 +19,6 @@ Those project goals were planned, but NOT accomplished:
 
 Music: Pedro Silva - Forest...
 All sounds were taken from freesound.org
+
+P.s.
+This project was my first game ever made, so it can contain A LOT of messy code.
